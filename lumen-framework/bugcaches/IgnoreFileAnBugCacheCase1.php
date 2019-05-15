@@ -13,7 +13,7 @@ class mock
     public function method2()
     {
         $variable = "string tests";
-        $test = 'test1';
+        $test = 'test2';
         return $variable;
     }
 }
