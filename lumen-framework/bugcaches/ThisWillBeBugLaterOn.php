@@ -9,7 +9,6 @@ class ThisWillBeBugLaterOn
      * ThisWillBeBugLaterOn constructor.
      */
     public function __construct() {
-        $test = 'test';
     }
 
     public function dummyFunction()
@@ -23,7 +22,6 @@ class ThisWillBeBugLaterOn
     public function newFunction()
     {
         $varone = '1';
-        $vartwo = '2';
 
         return $varone;
     }
