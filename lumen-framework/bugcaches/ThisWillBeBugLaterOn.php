@@ -14,9 +14,8 @@ class ThisWillBeBugLaterOn
     public function dummyFunction()
     {
         $varone = '3';
-        $vartwo = '4';
 
-        return $varone . $vartwo;
+        return $varone;
     }
 
     public function newFunction()
