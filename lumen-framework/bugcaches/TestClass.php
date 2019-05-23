@@ -9,6 +9,9 @@ class TestClass
         // do something
         // do something
         // do something
+        // do something
+
+        // do something again
         return false;
     }
 }
