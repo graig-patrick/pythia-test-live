@@ -12,5 +12,6 @@ class Test3Class
     public function newFunction()
     {
         // code goes here
+        // code goes here
     }
 }
