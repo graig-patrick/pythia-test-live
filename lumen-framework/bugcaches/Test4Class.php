@@ -13,5 +13,6 @@ class Test4Class
     public function newFunction()
     {
         // codes goes here
+        // another code goes here
     }
 }
