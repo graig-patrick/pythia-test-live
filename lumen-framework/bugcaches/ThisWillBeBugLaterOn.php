@@ -23,6 +23,7 @@ class ThisWillBeBugLaterOn
     {
         $varone = '1';
 
-        return $varone;
+        $vartwo = '2';
+        return $varone . $vartwo;
     }
 }
