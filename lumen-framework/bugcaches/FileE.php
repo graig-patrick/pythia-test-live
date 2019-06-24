@@ -11,6 +11,6 @@ class FileE
 
     public function getMethod()
     {
-        return false;
+        return true;
     }
 }
