@@ -11,6 +11,9 @@ class FileE
 
     public function getMethod()
     {
+        $one = 1;
+        $two = 2;
+
         return true;
     }
 }
