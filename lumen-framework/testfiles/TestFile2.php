@@ -7,5 +7,7 @@ class TestFile2
     /**
      * TestFile2 constructor.
      */
-    public function __construct() { }
+    public function __construct() {
+        // new code here
+    }
 }
