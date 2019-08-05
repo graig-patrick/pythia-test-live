@@ -13,7 +13,7 @@ class TestFile16
      * @param string $someVar
      */
     public function __construct(string $someVar) {
-        // fixes
+
         $this->someVar = $someVar;
         $this->someVar = $this->someVar . 'changed';
     }
