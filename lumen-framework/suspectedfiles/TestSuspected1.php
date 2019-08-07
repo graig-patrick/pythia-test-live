@@ -11,9 +11,9 @@ class TestSuspected1
 
     public function getRandomNumber()
     {
-        $randomNumber = rand(0,2500);
-        $randomNumber += 100;
-        $randomNumber -= rand(0, 10);
+        $randomNumber = rand(0,3500);
+        $randomNumber += 105;
+        $randomNumber -= rand(0, 5);
         return $randomNumber;
     }
 }
