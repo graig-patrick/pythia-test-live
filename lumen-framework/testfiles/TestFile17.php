@@ -15,4 +15,9 @@ class TestFile17
     public function __construct(string $param) {
         $this->params = $param;
     }
+
+    public function notRelatedToBugFix()
+    {
+        return false;
+    }
 }
