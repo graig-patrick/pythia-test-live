@@ -12,7 +12,7 @@ class TestSuspected1
     public function getRandomNumber()
     {
         $doubleNumber = rand(0.0, 0.500);
-        $randomNumber = rand(0,300);
+        $randomNumber = rand(0,3001);
         $randomNumber += 100;
         $randomNumber -= rand(0, 3);
         return $randomNumber + $doubleNumber;
