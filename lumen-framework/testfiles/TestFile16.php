@@ -15,6 +15,6 @@ class TestFile16
     public function __construct(string $someVar) {
 
         $this->someVar = $someVar;
-        $this->someVar = $this->someVar . 'changed';
+        $this->someVar = $this->someVar . 'fixes';
     }
 }
