@@ -17,4 +17,9 @@ class TestSuspected1
         $randomNumber -= rand(0, 3);
         return $randomNumber + $doubleNumber;
     }
+
+    public function convertNumberToString($number)
+    {
+        return (string) $number;
+    }
 }
