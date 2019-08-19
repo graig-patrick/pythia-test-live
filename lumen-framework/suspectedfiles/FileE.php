@@ -6,7 +6,7 @@ class FileE
 
     /**
      * FileE constructor.
-     * @param $number
+     * @param $number1
      */
-    public function __construct($number) { }
+    public function __construct($number1) { }
 }
