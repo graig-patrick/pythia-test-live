@@ -8,5 +8,7 @@ class NormalTestClass
      * NormalTestClass constructor.
      * @param $number
      */
-    public function __construct($number) { }
+    public function __construct($number) {
+        $number += 11;
+    }
 }
