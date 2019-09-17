@@ -14,7 +14,7 @@ class ThisWillBeBugLaterOn
     public function dummyFunction()
     {
         $varone = '3';
-        $vartwo = '4';
+        $vartwo = '5';
 
         return $varone . $vartwo;
     }
@@ -23,7 +23,7 @@ class ThisWillBeBugLaterOn
     {
         $varone = '1';
 
-        $vartwo = '3';
+        $vartwo = '5';
         return $varone . $vartwo;
     }
 }

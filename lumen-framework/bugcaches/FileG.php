@@ -11,6 +11,6 @@ class FileG
 
     public function newMethodForTest()
     {
-        return 5;
+        return 6;
     }
 }
