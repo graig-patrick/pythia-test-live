@@ -13,17 +13,17 @@ class ThisWillBeBugLaterOn
 
     public function dummyFunction()
     {
-        $varone = '3';
-        $vartwo = '5';
+        $varone = '2';
+        $vartwo = '1';
 
         return $varone . $vartwo;
     }
 
     public function newFunction()
     {
-        $varone = '1';
+        $varone = '2';
 
-        $vartwo = '5';
+        $vartwo = '1';
         return $varone . $vartwo;
     }
 }

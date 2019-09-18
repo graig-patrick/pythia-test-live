@@ -13,5 +13,6 @@ class FileE
     public function newMethod()
     {
         // TODO changing old files
+        return 5;
     }
 }

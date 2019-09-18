@@ -11,6 +11,6 @@ class FileB
 
     public function getNumber()
     {
-        return 10;
+        return 11;
     }
 }
