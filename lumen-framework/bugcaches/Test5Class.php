@@ -12,6 +12,6 @@ class Test5Class
     public function fixFunction()
     {
         // code goes here
-        return 8;
+        return 15;
     }
 }

@@ -11,6 +11,6 @@ class FileC
 
     public function newMethodAgainForThisClass()
     {
-        return 522;
+        return 11;
     }
 }

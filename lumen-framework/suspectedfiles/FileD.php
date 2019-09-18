@@ -11,6 +11,6 @@ class FileD
 
     public function newMethodForThisClass()
     {
-        return 10;
+        return 11;
     }
 }
